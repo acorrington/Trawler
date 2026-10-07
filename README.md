@@ -132,3 +132,7 @@ YouTube-proofing on a live server: if downloads start failing, the log names the
 `AndroidClientVersion` / `IosClientVersion` on the config page (or check `PreferIosClient`)
 and restart — no rebuild needed.
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
